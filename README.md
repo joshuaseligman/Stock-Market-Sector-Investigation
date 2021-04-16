@@ -8,7 +8,7 @@ You can read more about my investigation process and conclusions in the Jupyter 
 
 Overall, this was a really fun and interesting project as I had never done an investigation like this before with data and I was able to express some of my interests in economics and business through a data science application.
 
-In order to run the Jupyter notebook, begin by downloading the repository. Next, make sure that you have the following Python modules downloaded: notebook, numpy, pandas, matplotlib, BeautifulSoup, Yahoo Finance.
+In order to run the Jupyter notebook, begin by downloading the repository. Next, make sure that you have the following Python modules downloaded: jupyter, notebook, numpy, pandas, matplotlib, Beautiful Soup, and Yahoo Finance.
 
 Next, make sure `juptyer` is added to PATH and then run the following command in your terminal:
 ### `jupyter notebook`
