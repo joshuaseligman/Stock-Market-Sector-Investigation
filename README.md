@@ -14,3 +14,5 @@ Next, make sure `juptyer` is added to PATH and then run the following command in
 ### `jupyter notebook`
 
 The Jupyter notebook page will open and then navigate to the downloaded notebook. In the notebook, you can run each cell to see the results that I obtained in my investigation.
+
+If you have Visual Studio Code, you can also download the Jupyter extension and open and run the Jupyter notebook file directly in the text editor.
